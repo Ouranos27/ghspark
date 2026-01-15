@@ -12,8 +12,23 @@ The goal was to build a data-driven mini-tool for makers that solves a real prob
 ## ✅ What Went Well
 
 ### 1. The "Spark Score" Algorithm
-Developing the scoring logic was the most satisfying part. Balancing stars, forks, and repository age to find true *velocity* (not just popularity) worked better than expected.
+Developing the scoring logic was the most satisfying part. The goal was to identify repositories with high **velocity** — meaning rapid growth rate — rather than just absolute popularity.
+
+**What is a "Spark"?**  
+A spark is a repository that's quickly gaining momentum. Think of it as catching fire before it becomes a wildfire. These are newer projects (typically < 6 months old) experiencing explosive growth.
+
+**What is "Velocity"?**  
+Velocity measures the *rate* of growth over time. A repo gaining 100 stars per day has higher velocity than one that gained 10,000 stars over 5 years. By focusing on velocity, we surface emerging trends rather than established projects.
+
+**The Formula:**  
 `Score = (stars × 2 + forks) / days_live × activity_factor`
+
+- **Stars × 2**: Community interest is weighted heavily (stars indicate endorsement)
+- **Forks**: Developer engagement (people actively experimenting with the code)
+- **days_live**: Normalizes for repository age — prevents old repos from dominating
+- **activity_factor**: Boosts recent activity to prioritize currently trending projects
+
+This balancing act worked better than expected, consistently surfacing genuine "sparks" rather than stale popular repos.
 
 ### 2. UI/UX Fidelity
 Using **Framer Motion** combined with a glassmorphism aesthetic allowed me to create a "premium" feel that stands out from typical developer tools. The search interface feels snappy and alive.
