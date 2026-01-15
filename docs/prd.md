@@ -2,10 +2,10 @@
 
 **Product Name:** GitHub Spark Generator  
 **Repo Name:** ghspark  
-**Version:** 1.0 (MVP – 48-hour build)  
+**Version:** 1.0 (MVP – Final)  
 **Author:** Philippe  
-**Date:** January 14, 2026  
-**Status:** Draft (for Tibo Maker test submission)
+**Date:** January 15, 2026  
+**Status:** Final (Tibo Maker test submission)
 
 ## 1. Overview
 
@@ -125,7 +125,7 @@ Saves time, uncovers hidden gems, boosts sharing in the maker community.
 - 30–40h: Design polish, animations, mobile testing  
 - 40–48h: Final tests, deploy, README + launch post
 
-**Live URL:** [to be filled: e.g., https://ghspark.vercel.app]  
-**Repo:** https://github.com/[your-username]/ghspark  
+**Live URL:** https://ghspark.vercel.app  
+**Repo:** https://github.com/Ouranos27/ghspark  
 
 Built for TMAKER test — let's ship! 🚀

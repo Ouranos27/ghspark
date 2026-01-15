@@ -1,0 +1,49 @@
+Mini-Tools Maker Application Test
+Talk is cheap. Code is the truth.
+I'm looking for a killer Maker to join TMAKER. If you want the spot, show me you can ship.
+The Mission
+Build a production-ready mini-tool in 48 hours.
+I don't want a "Hello World" app. I want a growth engine.
+
+Your constraints:
+
+Data-Driven: You must gather data (scrape it, find an obscure API, or aggregate it) and build the value prop around it.
+Viral Potential: It needs to be something I would share on my X profile. It needs a "wow" factor or a "utility" factor that makes people click.
+
+Resilient: It must handle a Reddit hug of death or a viral tweet spike.
+Gorgeous: Design matters. If it looks like 2010 admin panel, don't bother
+
+The Idea
+
+This is the creativity test.
+I'm not giving you the idea. You find it. Look
+trustmrr.com
+or
+tweethunter.io/generate
+at
+-tweets. That's the vibe. Simple, useful, shareable.
+Go wild, it's better to be bold.
+
+The Rules
+Time: 48 hours max.
+Al: Use ChatGPT, Claude, Cursor, whatever. Speed is leverage. However: You are responsible for the code. If the Al hallucinates or writes buggy code, that's on you. "The Al did it" is not an excuse.
+Stack: preferred, but not mandatory: NextJS, Firebase/Supabase
+Deliverables
+
+Send me a DM a Notion Doc containing:
+
+The Live URL: (No localhosts)
+The codebase (public Github repo)
+The launch post for X, do your best effort to grab attention
+Some notes about:
+
+The Intent: Why this idea? Why will it go viral?
+The How: Brief tech stack and data source explanation.
+The Post-Mortem: What was easy? What was hard? How would you improve it with 1 more week?
+A Important P.S. By submitting a project to me, you agree to the following:
+
+I have the right to share your project/link on my X (with a mention of your account)
+
+
+I have the option to acquire the codebase from you for $400 if I decide to keep it alive
+PS 2: this test is sent at 5+ persons, if you want to give up, absolutely no problem.
